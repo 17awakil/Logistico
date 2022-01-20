@@ -31,3 +31,6 @@ To Run:
 2. ```npm install``` in root directory 
 3. ```cd client && npm install```
 4. Go back to root directory (```cd ..```) and run ```npm run start```
+
+## How I Tested
+I used Postman to test the different endpoints of Logistico. Here they are for your reference. <br> <br> [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/49d5147b2ab6bd889b11?action=collection%2Fimport)
